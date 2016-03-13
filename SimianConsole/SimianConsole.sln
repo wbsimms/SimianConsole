@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimianOutputCleaner", "SimianOutputCleaner.csproj", "{1835FD73-C6FF-4605-9347-DF2D7CEBF07E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimianConsole", "SimianConsole.csproj", "{1835FD73-C6FF-4605-9347-DF2D7CEBF07E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
