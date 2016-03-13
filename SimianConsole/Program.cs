@@ -84,7 +84,7 @@ namespace SimianOutputCleaner
 				var percentDup = dup.ToString("P"); 
 				output.AppendLine("% Duplication : " + percentDup);
 				output.AppendLine("==========================================");
-
+				Console.WriteLine(output);
 			}
 
 			return 0;
